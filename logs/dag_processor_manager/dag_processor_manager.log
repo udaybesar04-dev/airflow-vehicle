@@ -1,0 +1,68 @@
+[2026-02-06T18:51:19.861+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-02-06T18:51:19.862+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-02-06T18:51:19.862+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-02-06T18:51:19.863+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-06T18:51:19.870+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-02-06T18:51:20.271+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/practice1_dag.py        71  0.15s             0           0
+/opt/airflow/dags/ir_file_practice.py     72  0.13s             0           0
+================================================================================
+[2026-02-06T18:51:50.215+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/practice1_dag.py                              1           0  6.09s           2026-02-06T18:51:26
+/opt/airflow/dags/ir_file_practice.py                           1           0  2.22s           2026-02-06T18:51:22
+================================================================================
+[2026-02-06T18:52:19.926+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/practice1_dag.py                              1           0  1.18s           2026-02-06T18:51:57
+/opt/airflow/dags/ir_file_practice.py                           1           0  0.37s           2026-02-06T18:51:52
+================================================================================
+[2026-02-06T18:52:50.800+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/practice1_dag.py                              1           0  1.46s           2026-02-06T18:52:29
+/opt/airflow/dags/ir_file_practice.py                           1           0  0.52s           2026-02-06T18:52:23
+================================================================================
+[2026-02-06T18:53:21.080+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/practice1_dag.py                              1           0  1.75s           2026-02-06T18:53:01
+/opt/airflow/dags/ir_file_practice.py                           1           0  0.25s           2026-02-06T18:52:54
+================================================================================
+[2026-02-06T18:53:51.223+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/practice1_dag.py                              1           0  1.32s           2026-02-06T18:53:33
+/opt/airflow/dags/ir_file_practice.py                           1           0  0.41s           2026-02-06T18:53:24
+================================================================================
+[2026-02-06T18:54:21.333+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/practice1_dag.py                              1           0  1.68s           2026-02-06T18:54:05
+/opt/airflow/dags/ir_file_practice.py                           1           0  0.29s           2026-02-06T18:53:55
+================================================================================

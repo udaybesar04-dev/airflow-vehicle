@@ -1,0 +1,46 @@
+[2026-02-06T18:51:20.176+0000] {processor.py:161} INFO - Started process (PID=72) to work on /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:51:20.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ir_file_practice.py for tasks to queue
+[2026-02-06T18:51:20.186+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:20.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:51:20.252+0000] {processor.py:840} INFO - DAG(s) 'ir_practice_workflow' retrieved from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:51:21.962+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:21.960+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:ir_practice_workflow
+[2026-02-06T18:51:22.007+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:22.006+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:ir_practice_workflow
+[2026-02-06T18:51:22.049+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:22.046+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:ir_practice_workflow
+[2026-02-06T18:51:22.051+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:22.050+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-06T18:51:22.141+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:22.140+0000] {dag.py:3111} INFO - Creating ORM DAG for ir_practice_workflow
+[2026-02-06T18:51:22.209+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:22.207+0000] {dag.py:3947} INFO - Setting next_dagrun for ir_practice_workflow to 2026-02-06 17:00:00+00:00, run_after=2026-02-06 18:00:00+00:00
+[2026-02-06T18:51:22.295+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ir_file_practice.py took 2.137 seconds
+[2026-02-06T18:51:52.439+0000] {processor.py:161} INFO - Started process (PID=80) to work on /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:51:52.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ir_file_practice.py for tasks to queue
+[2026-02-06T18:51:52.453+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:52.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:51:52.498+0000] {processor.py:840} INFO - DAG(s) 'ir_practice_workflow' retrieved from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:51:52.594+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:52.593+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-06T18:51:52.657+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:51:52.657+0000] {dag.py:3947} INFO - Setting next_dagrun for ir_practice_workflow to 2026-02-06 17:00:00+00:00, run_after=2026-02-06 18:00:00+00:00
+[2026-02-06T18:51:52.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ir_file_practice.py took 0.306 seconds
+[2026-02-06T18:52:23.078+0000] {processor.py:161} INFO - Started process (PID=97) to work on /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:52:23.084+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ir_file_practice.py for tasks to queue
+[2026-02-06T18:52:23.094+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:52:23.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:52:23.150+0000] {processor.py:840} INFO - DAG(s) 'ir_practice_workflow' retrieved from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:52:23.299+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:52:23.298+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-06T18:52:23.411+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:52:23.410+0000] {dag.py:3947} INFO - Setting next_dagrun for ir_practice_workflow to 2026-02-06 17:00:00+00:00, run_after=2026-02-06 18:00:00+00:00
+[2026-02-06T18:52:23.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ir_file_practice.py took 0.445 seconds
+[2026-02-06T18:52:53.862+0000] {processor.py:161} INFO - Started process (PID=110) to work on /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:52:53.864+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ir_file_practice.py for tasks to queue
+[2026-02-06T18:52:53.868+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:52:53.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:52:53.891+0000] {processor.py:840} INFO - DAG(s) 'ir_practice_workflow' retrieved from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:52:53.959+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:52:53.959+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-06T18:52:54.004+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:52:54.004+0000] {dag.py:3947} INFO - Setting next_dagrun for ir_practice_workflow to 2026-02-06 17:00:00+00:00, run_after=2026-02-06 18:00:00+00:00
+[2026-02-06T18:52:54.048+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ir_file_practice.py took 0.199 seconds
+[2026-02-06T18:53:24.150+0000] {processor.py:161} INFO - Started process (PID=120) to work on /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:53:24.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ir_file_practice.py for tasks to queue
+[2026-02-06T18:53:24.174+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:53:24.173+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:53:24.207+0000] {processor.py:840} INFO - DAG(s) 'ir_practice_workflow' retrieved from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:53:24.304+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:53:24.303+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-06T18:53:24.390+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:53:24.390+0000] {dag.py:3947} INFO - Setting next_dagrun for ir_practice_workflow to 2026-02-06 17:00:00+00:00, run_after=2026-02-06 18:00:00+00:00
+[2026-02-06T18:53:24.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ir_file_practice.py took 0.352 seconds
+[2026-02-06T18:53:55.331+0000] {processor.py:161} INFO - Started process (PID=129) to work on /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:53:55.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ir_file_practice.py for tasks to queue
+[2026-02-06T18:53:55.340+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:53:55.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:53:55.365+0000] {processor.py:840} INFO - DAG(s) 'ir_practice_workflow' retrieved from /opt/airflow/dags/ir_file_practice.py
+[2026-02-06T18:53:55.437+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:53:55.437+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-06T18:53:55.512+0000] {logging_mixin.py:188} INFO - [2026-02-06T18:53:55.512+0000] {dag.py:3947} INFO - Setting next_dagrun for ir_practice_workflow to 2026-02-06 17:00:00+00:00, run_after=2026-02-06 18:00:00+00:00
+[2026-02-06T18:53:55.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ir_file_practice.py took 0.247 seconds
